@@ -85,7 +85,6 @@ MAMath-Bench/
 │   ├── negative.json       # 对抗性负样本库
 │   ├── img/                # 几何图形、手写公式、图表
 │   └── audio/              # 语音播报题目音频
-├── scripts/                # 自动评估脚本
 └── README.md
 ```
 
