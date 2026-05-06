@@ -1,6 +1,6 @@
 # 📐 多模态多智能体数学推理基准 （A Comprehensive Multi-modal Multi-agent Benchmark for Mathematical Reasoning）
 
-[**🌐 Website**](https://your-project-link.github.io) | [**📄 Paper**](https://arxiv.org/abs/xxxx.xxxxx) | [**📊 Dataset**](#dataset-statistics) | [**🛠️ Toolkit**](https://github.com/your-repo)
+[![Data Scale](https://img.shields.io/badge/Samples-1003-orange.svg)](#dataset-statistics) [![Modalities](https://img.shields.io/badge/Modalities-4-purple.svg)](#key-features) 
 
 ---
 
