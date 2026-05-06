@@ -52,7 +52,7 @@
 </div>
 
 ## 📊 数据统计 (Dataset Statistics)
-<div align="center">  <a href="images/fig11.pdf" target="_blank"> <img src="images/fig11.png" width="100%" alt="难度-模态-步骤复杂度分布"> </a> <p>图4：难度、模态与推理步骤复杂度分布</p> </div>
+<div align="center">  <a href="images/fig11.pdf" target="_blank"> <img src="images/fig11.png" width="50%" alt="难度-模态-步骤复杂度分布"> </a> <p>图4：难度、模态与推理步骤复杂度分布</p> </div>
 
 ### 数据分布概览
 | 指标分类 | 详细项 | 数量 / 占比 |
