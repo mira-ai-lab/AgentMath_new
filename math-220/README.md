@@ -1,7 +1,6 @@
 # 📐 多模态多智能体数学推理基准 （A Comprehensive Multi-modal Multi-agent Benchmark for Mathematical Reasoning）
 
 [![Data Scale](https://img.shields.io/badge/Samples-1003-orange.svg)](#dataset-statistics) [![Modalities](https://img.shields.io/badge/Modalities-4-purple.svg)](#key-features) 
-
 ---
 
 ## 💡 核心概述 (Overview)
@@ -31,7 +30,7 @@
 ### 1. 多维度覆盖 (Multidimensional Coverage)
 
 <div align="center">
-  <img src="images/pos.svg" width="50%" alt="正样本示例">
+  <img src="images/pos.png" width="100%" alt="正样本示例">
   <p>图2：正样本示例</p>
 </div>
 -   **11 大数学领域**：几何、代数、组合数学、数论、概率论等。
@@ -48,12 +47,12 @@
 -   **缺失步骤 (Missing Steps)**：跳跃性逻辑漏洞。
 -   **顺序错乱 (Swapped Steps)**：前置条件与结论倒置。
 </div><div align="center">
-  <img src="images/neg.svg" width="50%" alt="对抗样本示例">
+  <img src="images/neg.png" width="100%" alt="对抗样本示例">
   <p>图3：对抗样本示例</p>
 </div>
 
 ## 📊 数据统计 (Dataset Statistics)
-<div align="center">  <a href="images/fig11.pdf" target="_blank"> <img src="images/fig11.png" width="50%" alt="难度-模态-步骤复杂度分布"> </a> <p>图4：难度、模态与推理步骤复杂度分布</p> </div>
+<div align="center">  <a href="images/fig11.pdf" target="_blank"> <img src="images/fig11.png" width="100%" alt="难度-模态-步骤复杂度分布"> </a> <p>图4：难度、模态与推理步骤复杂度分布</p> </div>
 
 ### 数据分布概览
 | 指标分类 | 详细项 | 数量 / 占比 |
